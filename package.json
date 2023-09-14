@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://mbugua97.github.io/mbuguajob'",
+    "build-gh": "parcel build --public-url 'https://mbugua97.github.io/mbuguajob",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
